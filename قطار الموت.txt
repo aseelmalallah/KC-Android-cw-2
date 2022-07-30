@@ -1,0 +1,17 @@
+
+public class Main
+{
+	public static void main(String[] args) {
+		
+	int height = 150;
+	
+	if (height>160){
+	    System.out.println("you can inter the game");
+
+	}else if (height<160){
+	    System.out.println("you can not inter the game");
+	    
+	}
+	
+	}
+}
